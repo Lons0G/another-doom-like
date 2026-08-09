@@ -1,3 +1,11 @@
 build/
 CMakeCache.txt
 CMakeFiles/
+.cache/
+compile_commands.json
+*.swp
+*.swo
+*~
+Makefile
+cmake_install.cmake
+
